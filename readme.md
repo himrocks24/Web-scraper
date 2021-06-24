@@ -5,7 +5,7 @@ This project is made for automatic web scraping to make scraping easy. It gets a
 Limitation of this project:
 
 Since the source code of a particular website is different for different types of web pages, scraping simulates human web surfing.
-This project works on the URL: https://books.toscrape.com/index.html
+This project works on this URL: https://books.toscrape.com/index.html only.
 
 Working:
 
